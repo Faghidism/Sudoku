@@ -1,6 +1,6 @@
 
 
-# SUDOKU
+# SUDOKU (C++)
 
 
 ---
